@@ -1,13 +1,13 @@
 // Sample Products (without prices)
 const products = [
-    { id: 1, name: "Apple Macbook M2 GOLD", image: "images/m4-gold.png" },
-    { id: 2, name: "Apple Macbook M1 SILVER", image: "images/m1-white.png" },
-    { id: 3, name: "Apple Macbook M3 NAVY", image: "images/m2-navy.jpg" },
-    { id: 4, name: "Apple Macbook M3 SPACE GRAY", image: "images/m-purple.webp" },
-    { id: 5, name: "Apple Macbook PRO M4 SILVER", image: "images/pro-back.webp" },
-    { id: 6, name: "Apple Macbook M3 BLACK", image: "images/m4-pro.webp" },
-    { id: 7, name: "Apple Macbook M1 PINK", image: "images/pinkm1.jpg" },
-    { id: 8, name: "Apple Macbook M2 NAVY", image: "images/m3-blue.png" }
+    { id: 1, name: "Macbook M2 GOLD", image: "images/m4-gold.png" },
+    { id: 2, name: "Macbook M1 SILVER", image: "images/m1-white.png" },
+    { id: 3, name: "Macbook M3 NAVY", image: "images/m2-navy.jpg" },
+    { id: 4, name: "Macbook M3 SPACE GRAY", image: "images/m-purple.webp" },
+    { id: 5, name: "Macbook PRO M4 SILVER", image: "images/pro-back.webp" },
+    { id: 6, name: "Macbook M3 BLACK", image: "images/m4-pro.webp" },
+    { id: 7, name: "Macbook M1 PINK", image: "images/pinkm1.jpg" },
+    { id: 8, name: "Macbook M2 NAVY", image: "images/m3-blue.png" }
 ];
 
 // Cart State
