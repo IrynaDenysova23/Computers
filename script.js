@@ -29,7 +29,7 @@ function renderProducts() {
             <div class="product-info">
                 <h3>${product.name}</h3>
                 <button class="add-to-cart-btn" onclick="addToCart(${product.id}, this)">
-                    Add to Cart
+                    ➕
                 </button>
             </div>
         </div>
@@ -193,7 +193,7 @@ function checkout() {
         showToast('Your cart is empty!');
         return;
     }
-    showToast('Thank you for your order! 🎉');
+    showToast('Enjoy new computer🎉');
     cart = [];
     saveCart();
     updateCartBadge();
